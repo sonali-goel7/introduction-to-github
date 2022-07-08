@@ -7,3 +7,8 @@
 
 ##### Five.
 
+```
+$ git init
+Initialized empty git repository.
+```
+
